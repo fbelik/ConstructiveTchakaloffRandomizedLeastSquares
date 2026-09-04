@@ -54,8 +54,8 @@ will save the figures to `figures_local/`.
 
 
 It is a substantial computation. 
-On our machine, using Julia version 1.12.5, the code takes approximately
-8.5 hours to complete.
+On our machine, using Julia version 1.12.1, the code takes approximately
+2.5 hours to complete.
 
 To run a smaller experiment interactively, for example, within Julia:
 
