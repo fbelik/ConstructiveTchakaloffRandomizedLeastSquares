@@ -62,7 +62,7 @@ plots additional statistics which are not provided in the paper.
 They are as follows:
 
 - `nan_prob.pdf` - Number of rules for which the Gramian was not invertible
-- `sigma_abs_med.pdf` - Median relative error between the weights and their reference values
+- `sigma_rel_med.pdf` - Median relative error between the weights and their reference values
 - `sigma_abs_med.pdf` - Median absolute error between the weights and their reference values
 - `pos_prob.pdf` - Probability the intermediate rule has strictly positive weights
 
