@@ -1,6 +1,6 @@
 using TchakaloffResults
 
-function generate_csvs(output_directory="data/")
+function generate_csvs(output_directory="data_local/")
     trial_run(; save_to=output_directory)
 end
 

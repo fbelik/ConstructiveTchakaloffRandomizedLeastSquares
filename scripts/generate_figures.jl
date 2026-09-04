@@ -1,6 +1,6 @@
 using TchakaloffResults
 
-function generate_figures(results_directory="data/", figures_directory="figures/")
+function generate_figures(results_directory="data_local/", figures_directory="figures_local/")
     # Figure 1 from the paper
     basis_and_pdfs_plots(figures_directory)
     # Figure 2 from the paper (along with additional heatmaps)
